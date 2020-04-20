@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ThirdProgram:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ThirdProgram_jar</output-path>
+    <root id="archive" name="ThirdProgram.jar">
+      <element id="module-output" name="ThirdProgram" />
+    </root>
+  </artifact>
+</component>

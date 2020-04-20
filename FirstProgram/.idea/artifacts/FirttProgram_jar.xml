@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FirttProgram:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FirttProgram_jar</output-path>
+    <root id="archive" name="FirttProgram.jar">
+      <element id="module-output" name="FirttProgram" />
+    </root>
+  </artifact>
+</component>
